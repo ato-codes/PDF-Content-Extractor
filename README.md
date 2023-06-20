@@ -7,7 +7,7 @@
 
 ## . Instructions
 
-1. Files that needed to be extracted must be putted on on the folder named ```pdf-files``` in the root folder of the code. (it comes with sample pdf files in it)
+1. PDF Files that needed to be extracted must be putted on on the folder named ```pdf-files``` in the root folder of the code. (it comes with sample pdf files in it)
 
 2. Then in terminal type
 ```bash
