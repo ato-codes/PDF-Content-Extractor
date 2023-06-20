@@ -1,6 +1,6 @@
 # PDF Content Extractor
 
-. A simple python code for extracting contents of given pdf file. Based on [PyPDF2](https://pypi.org/project/PyPDF2/) module
+. Project based simple python code for extracting contents of given pdf file. Based on [PyPDF2](https://pypi.org/project/PyPDF2/) module.
 
 . if [PyPDF2](https://pypi.org/project/PyPDF2/) is not installed you can install it through this code from the options.
 
